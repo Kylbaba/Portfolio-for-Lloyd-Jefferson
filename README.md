@@ -1,3 +1,4 @@
+## About:
 This project was created using Vite.
 To accomplish the task, the following steps were taken:
 1. Developed adaptive and semantic layout
@@ -10,7 +11,7 @@ Created intuitive navigation: burger menu for mobile version, anchor links with 
 Added a form with email validation using regular expressions.
 Implemented a POST request to the server for sending collaboration requests.
 Provided user notifications about successful submission or errors.
-5.Added modal window for notifications
+5. Added modal window for notifications
 Implemented a modal window to confirm request submissions.
 The window can be closed by clicking a button, the backdrop, or pressing the Escape key.
 6. Display of reviews from backend
@@ -19,7 +20,25 @@ Thanks to these solutions, the website is fast, user-friendly, interactive, and 
 </br>
 Conclusions:
 The project was created considering modern web development trends and optimized for user convenience. With its responsive design, interactive elements, and high performance, the website will serve as an effective tool for showcasing student achievements.
-<div align="center">Technologies used:</div>
-Front-end: HTML, CSS, JavaScript
-Libraries: Axios, Accordeon, iziToast
-Utilities: VSCode, Figma, Git/GitHub, Vite
+
+
+
+## Technologies used:
+
+Front-end: `HTML` `CSS` `JavaScript` </br>
+Libraries: `Axios` `Accordeon` `iziToast`</br>
+Utilities: `VSCode` `Figma` `Git/GitHub` `Vite`
+
+## Team:
+
+1. **[Nicolas Vladymyrov](https://github.com/Nikolas-vl)** Team lead;
+   Benefits
+2. **[Tetiana Petrenko](https://github.com/Kylbaba)** Scrum Master; Covers
+3. **[Denys Hudymiak](https://github.com/dendjoya25)** Projects and Reviews
+4. **[Anastasiia Parfeniuk](https://github.com/nastishaaa)** Work Together
+5. **[Yuriy Kushnir](https://github.com/wptraffadmin)** FAQ and About me
+6. **[Yevsielev Yurii](https://github.com/YevsieievYurii)** Header
+7. **[Diana Popal'](https://github.com/Diana-Po)** Hero
+
+
+
