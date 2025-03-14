@@ -15,8 +15,8 @@ Implemented a modal window to confirm request submissions.
 The window can be closed by clicking a button, the backdrop, or pressing the Escape key.
 6. Display of reviews from backend
 Implemented review retrieval through API.
-
 Thanks to these solutions, the website is fast, user-friendly, interactive, and effective for self-presentation to potential employers and clients.
+</br>
 Conclusions:
 The project was created considering modern web development trends and optimized for user convenience. With its responsive design, interactive elements, and high performance, the website will serve as an effective tool for showcasing student achievements.
 <div align="center">Technologies used:</div>
