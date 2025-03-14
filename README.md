@@ -1,32 +1,25 @@
-# Vanilla App Template
+This project was created using Vite.
+To accomplish the task, the following steps were taken:
+1. Developed adaptive and semantic layout
+Created responsive layout using HTML5, CSS3, and JavaScript to ensure proper display across various devices. Enhanced SEO and accessibility through semantic tags.
+2. Optimized graphics and website performance
+Optimized graphics and performance by reducing image sizes, implementing SVG icons through sprites, and supporting Retina displays.
+3. Implemented user-friendly navigation and interactivity
+Created intuitive navigation: burger menu for mobile version, anchor links with smooth scrolling, hover effects, as well as sliders (Swiper.js) and accordion functionality (Accordeon.js).
+4. Integrated feedback form
+Added a form with email validation using regular expressions.
+Implemented a POST request to the server for sending collaboration requests.
+Provided user notifications about successful submission or errors.
+5.Added modal window for notifications
+Implemented a modal window to confirm request submissions.
+The window can be closed by clicking a button, the backdrop, or pressing the Escape key.
+6. Display of reviews from backend
+Implemented review retrieval through API.
 
-Цей проект було створено за допомогою Vite.
-Для вирішення завдання було:
-1. Розроблено адаптивну та семантичну верстку
-Розроблено адаптивну верстку з використанням HTML5, CSS3 та JavaScript для коректного
-відображення на різних пристроях. Забезпечено SEO та доступність завдяки семантичним
-тегам.
-2. Оптимізовано графіку та продуктивність сайту
-Оптимізовано графіку та продуктивність: зменшено розмір зображень, використано
-sVG-іконки через спрайти та підтримку Retina-екранів.
-3. Реалізовано зручну навігацію та інтерактивність
-Реалізовано зручну навігацію: бургер-меню для мобільної версії, якірні посилання з
-плавним скролом, hover-ефекти, а також слайдери (Swiper.js) і акордеон (Accordeon.js).
-4. ﻿﻿﻿Реалізовано форму зворотного звʼязку
-Додано форму з валідацією email за допомогою регулярного виразу.
-Реалізовано POST-запит на сервер для відправки заявки на співпрацю.
-Передбачено повідомлення користувачу про успішне відправлення або
-помилку.
-5. ﻿﻿﻿Додано модальне вікно для повідомлень
-Реалізовано модальне вікно для підтвердження відправки заявки.
-Вікно закривається натисканням на кнопку, фон (backdrop) або клавішу Escape.
-6. ﻿﻿﻿Відображення відгуків із бекенду
-Реалізовано отримання відгуків через АРІ.
-Завдяки цим рішенням сайт є швидким, зручним, інтерактивним та ефективним для самопрезентації перед потенційними роботодавцями та замовниками
-Висновки:
-Проєкт створений з урахуванням сучасних тенденцій веброзробки та оптимізований для зручного використання. Завдяки адаптивному дизайну, інтерактивним елементам та швидкодії сайт стане ефективним інструментом для представлення студентських
-досягнень.
-<div align="center">Технології які використовувались:</div>
-Front-end: ﻿﻿HTML ﻿﻿CSS ﻿﻿JavaScript    <br />
-Бібліотеки: ﻿﻿Axios ﻿﻿Accordeon ﻿﻿iziToast ﻿   <br />
-Utilites: ﻿﻿VSCode ﻿﻿Figma ﻿﻿Git/GitHub ﻿﻿Vite
+Thanks to these solutions, the website is fast, user-friendly, interactive, and effective for self-presentation to potential employers and clients.
+Conclusions:
+The project was created considering modern web development trends and optimized for user convenience. With its responsive design, interactive elements, and high performance, the website will serve as an effective tool for showcasing student achievements.
+<div align="center">Technologies used:</div>
+Front-end: HTML, CSS, JavaScript
+Libraries: Axios, Accordeon, iziToast
+Utilities: VSCode, Figma, Git/GitHub, Vite
